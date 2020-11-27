@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="287d8080-857d-4ffc-bfd9-0bbd975f7461" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hJsKtPzksIy3UQyLSdy9NYsASi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.splitter.proportion" value="0.24760245" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programming\project\storymaker\api\.action\table_rooms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programming\project\storymaker\api\.action\table_rooms" />
+      <recent name="C:\Programming\project\storymaker\api\action\work_room" />
+      <recent name="C:\Programming\project\storymaker\api\action\create_room" />
+      <recent name="C:\Programming\project\storymaker\script\source\img" />
+      <recent name="C:\Programming\project\storymaker\script\source\fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="287d8080-857d-4ffc-bfd9-0bbd975f7461" name="Default Changelist" comment="" />
+      <created>1599740469277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599740469277</updated>
+      <workItem from="1599740470994" duration="1617000" />
+      <workItem from="1599743543263" duration="2977000" />
+      <workItem from="1599763875590" duration="2613000" />
+      <workItem from="1599912749615" duration="4685000" />
+      <workItem from="1600075581527" duration="3721000" />
+      <workItem from="1600296779982" duration="3793000" />
+      <workItem from="1600374404355" duration="4044000" />
+      <workItem from="1600421642950" duration="7080000" />
+      <workItem from="1600508738896" duration="5814000" />
+      <workItem from="1600541465614" duration="7163000" />
+      <workItem from="1600888110785" duration="1248000" />
+      <workItem from="1601235578098" duration="3050000" />
+      <workItem from="1601319526328" duration="378000" />
+      <workItem from="1601392646962" duration="207000" />
+      <workItem from="1601393501439" duration="2565000" />
+      <workItem from="1601465010597" duration="6508000" />
+      <workItem from="1601547411804" duration="12823000" />
+      <workItem from="1601646837027" duration="6665000" />
+      <workItem from="1601848027305" duration="484000" />
+      <workItem from="1602688739142" duration="1284000" />
+      <workItem from="1602759322113" duration="2000000" />
+      <workItem from="1604169479727" duration="948000" />
+      <workItem from="1604323441624" duration="526000" />
+      <workItem from="1605257996141" duration="144000" />
+      <workItem from="1605643165364" duration="53000" />
+      <workItem from="1605801839910" duration="1487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="198" width="1019" height="683" key="#Deployment" timestamp="1600300128069">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="198" width="1019" height="683" key="#Deployment/62.0.1858.1080@62.0.1858.1080" timestamp="1600300128069" />
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601393614295">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601393614295" />
+    <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1605643224908">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="771" y="295" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1605643224908" />
+    <state x="817" y="467" width="344" height="151" key="NewPhpFileDialog" timestamp="1601651585997">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="780" y="467" width="355" height="145" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599764131715" />
+    <state x="817" y="467" width="344" height="151" key="NewPhpFileDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1601651585997" />
+    <state x="513" y="261" width="1163" height="710" key="SettingsEditor" timestamp="1600889612786">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="513" y="261" width="1163" height="710" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1600889612786" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1601548038011">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/62.0.1858.1080@62.0.1858.1080" timestamp="1601548038011" />
+    <state x="876" y="270" width="663" height="539" key="ftp.server.browser" timestamp="1600299224586">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="876" y="270" width="663" height="539" key="ftp.server.browser/62.0.1858.1080@62.0.1858.1080" timestamp="1600299224586" />
+    <state x="861" y="432" key="publish.login" timestamp="1605258086685">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="861" y="432" key="publish.login/62.0.1858.1080@62.0.1858.1080" timestamp="1605258086685" />
+  </component>
+</project>

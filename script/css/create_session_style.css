@@ -1,0 +1,54 @@
+.h1 {
+	font-size: 50px;
+	display: flex;
+	margin: auto;
+}
+
+.h5 {
+    font-size: 20px;
+	display: flex;
+	margin: auto;
+}
+
+.button{
+	background-color: #F0E68C;
+	transition-duration: 0.4s;
+    color: black;
+    text-align: center;
+    display: flex;
+    font-size: 20px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #BDB76B;
+}
+
+.button1 {
+	margin-top: 5px; 
+	padding: 5px 10px;
+}
+
+.button2 {
+	padding: 10px 20px;
+}
+
+body {
+    display: flex;
+	min-height: 75vh;
+	margin: 0;
+    background-color: antiquewhite;
+}
+
+.container {
+	min-height: 10vh;
+    display: table;
+    margin: auto;
+    padding: 1%;
+    border: 5px solid sandybrown;
+    font-size: 5px;
+    text-align: right;
+}
+
+

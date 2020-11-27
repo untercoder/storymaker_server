@@ -1,0 +1,49 @@
+.button{
+	background-color: #F0E68C;
+	transition-duration: 0.4s;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    display: flex;
+    font-size: 20px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.h1 {
+    font-size: 20px;
+    text-align: center
+}
+
+.button:hover {
+    background-color: #BDB76B;
+}
+
+.button1 {
+	padding: 10px 20px;
+}
+
+body {
+    display: flex;
+	min-height: 75vh;
+	margin: 0;
+    background-color: antiquewhite;
+}
+
+.container {
+    display: table;
+    margin: auto;
+    padding: 1%;
+    border: 5px solid sandybrown;
+    font-size: 5px;
+    text-align: right;
+}
+
+input[type=text] {
+	min-height: 5vh;
+	font-size: 20px;
+	display: flex;
+	margin: auto;
+	border: 1px solid black;
+    border-radius: 2px;
+}

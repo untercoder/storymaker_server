@@ -1,0 +1,39 @@
+.button{
+	background-color: #F0E68C;
+	transition-duration: 0.4s;
+    color: black;
+    text-align: center;
+    display: flex;
+    font-size: 20px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #BDB76B;
+}
+
+body {
+    display: block;
+    background-color: antiquewhite;
+}
+
+.container {
+	min-height: 75vh;
+    display: flex;
+}
+
+.InnerContainer {
+	margin: auto;
+    padding: 1%;
+    border: 5px solid sandybrown;
+}
+
+input[type=text] {
+	margin: auto;
+	display: flex;
+	min-height: 5vh;
+	font-size: 20px;
+	border: 1px solid black;
+    border-radius: 2px;
+}
