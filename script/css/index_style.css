@@ -11,10 +11,7 @@ html {
 }
 
 body {
-    display: block;
-    height: 100%;
-    background: url(/script/source/img/bg.jpg) no-repeat;
-    background-size: cover;
+    background: url(/script/source/img/bg.jpg) no-repeat fixed;
     -moz-background-size: 100%; /* Firefox 3.6+ */
     -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
     -o-background-size: 100%; /* Opera 9.6+ */
@@ -37,7 +34,7 @@ body {
 	margin: auto;
     background: rgba(0,0,0,0.5);
     padding: 6% 6% 3% 10%;
-    font-size: 3em;
+    font-size: 2em;
     font-family: Terminator Gen;
     color: #fffdfd;
     text-align: right;
@@ -46,9 +43,8 @@ body {
     /*border: 5px solid #60f467;*/
 }
 
-.line {
-    font-weight: bold;
-    padding: 5px;
+li {
+    list-style-type: none;
 }
 
 a {
@@ -62,8 +58,6 @@ a {
     background-color: rgba(254, 0, 125, 0.7);
 }
 
-
-
 a:hover {
     text-decoration: underline;
     color: white;
@@ -71,24 +65,11 @@ a:hover {
 }
 
 
-
-.button {
-    background-color: #f08c8c;
-    transition-duration: 0.4s;
-    padding-right: 30%;
-    padding-left: 30%;
-    color: #fffdfd;
+.containerCreateBtn {
     text-align: center;
-    display: flex;
-    font-size: 20px;
-    margin: auto;
-    cursor: pointer;
-
-}
-.button:hover {
-    background-color: #BDB76B;
 }
 
 .createBtn {
+    text-decoration: none;
     background-color: #e45d29;
 }

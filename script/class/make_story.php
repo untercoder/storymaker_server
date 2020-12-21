@@ -35,12 +35,12 @@ class make_story
                 foreach ($this -> story as $key => $value ) {
                     $this -> story[$key] = trim($request[$key]);
                 }
-                $this -> BD = new BDTools($this -> story,$name_table,false); // объект для записи
+                $this -> BD = new BDTools($this -> story, $this -> name_table,false); // объект для записи
 
         }
 
         else {
-            $this -> BD = new BDTools($request,$name_table,false); //объект для чтения
+            $this -> BD = new BDTools($request,$this -> name_table,false); //объект для чтения
 
         }
     }

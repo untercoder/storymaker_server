@@ -1,18 +1,21 @@
 <?php
-    session_start();
+   session_start();
 ?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <title>Storymaker</title>
-    <link rel="icon" href="script/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/read_style.css">
 </head>
 <body>
-
-<form action="read.php" method="get" >
-    <?php
+<div class="header">
+    <h1>STORYMAKER</h1>
+</div>
+<div class="container">
+    <div class="middle">
+        <?php
         include 'class/make_story.php';
         /*
             Проверка массива $_GET на пустые поля.
@@ -34,14 +37,15 @@
         else {
             echo "Ошибка! Все поля формы должны быть заполнены."."<br/>";
         }
-
-    ?>
-    <br/>
-    <input type="submit" name="button" value="Сгенерировать еще">
-</form>
-<br/>
-<button onclick="document.location = 'http://lexamok.beget.tech/script/form.php'">Записать еще</button>
-<button onclick="document.location = 'http://lexamok.beget.tech/'">Вернуться к выбору комнаты</button>
+        ?>
+        </br>
+        <form action="read.php" method="get" >
+            <input class="button" type="submit" name="button" value="Сгенерировать еще">
+        </form>
+        <a onclick="document.location = 'http://lexamok.beget.tech/script/form.php'">Записать еще</a>
+        <a onclick="document.location = 'http://lexamok.beget.tech/'">Вернуться к выбору комнаты</a>
+    </div>
+</div>
 </body>
 </html>
 

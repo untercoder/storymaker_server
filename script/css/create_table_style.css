@@ -1,49 +1,105 @@
-.button{
-	background-color: #F0E68C;
-	transition-duration: 0.4s;
-    color: black;
-    padding: 5px 10px;
-    text-align: center;
-    display: flex;
-    font-size: 20px;
-    margin: auto;
-    cursor: pointer;
+html {
+    margin: 0;
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
 }
 
-.h1 {
-    font-size: 20px;
-    text-align: center
-}
-
-.button:hover {
-    background-color: #BDB76B;
-}
-
-.button1 {
-	padding: 10px 20px;
+@font-face {
+    src: url(/script/source/fonts/retrofont.otf);
+    font-family: 'Terminator Gen';
+    font-weight: normal;
 }
 
 body {
-    display: flex;
-	min-height: 75vh;
-	margin: 0;
-    background-color: antiquewhite;
+    background: url(/script/source/img/bg.jpg) no-repeat fixed;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+}
+
+.header {
+    position: relative;
+    margin: auto;
+    font-family: Terminator Gen;
+    color: #fffdfd;
+    text-align: center;
+    font-size: 2em;
 }
 
 .container {
-    display: table;
+    display: flex;
+}
+
+.middle {
     margin: auto;
-    padding: 1%;
-    border: 5px solid sandybrown;
-    font-size: 5px;
-    text-align: right;
+    background: rgba(0,0,0,0.5);
+    padding: 6% 6% 3% 10%;
+    font-size: 1em;
+    font-family: Terminator Gen;
+    color: #fffdfd;
+    text-align: center;
+    border-radius: 12px;
+}
+
+form {
+    text-align: center;
+}
+
+.button1 {
+    background-color: #e45d29;
+    font-family: Terminator Gen;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1:hover {
+    text-decoration: underline;
+    color: white;
+    background-color: #2d65a0;
+}
+
+a{
+    display: inline-block;
+    font-weight: normal;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 0.3em 0.5em;
+    margin: 0.2em 0.3em;
+    color: black;
+    background-color: rgba(254, 0, 125, 0.7);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+    background-color: #2d65a0;
+}
+
+input {
+    width: 100%;
+    background: transparent;
+}
+
+input::placeholder {
+    color: white;
+    font-size: 1.2em;
 }
 
 input[type=text] {
-	min-height: 5vh;
-	font-size: 20px;
-	display: flex;
-	margin: auto;
-	border: 1px solid black;
-    border-radius: 2px;
+    outline: none;
+    border: none;
+    border-bottom: 4px solid rgba(254, 0, 125, 0.7);
+    padding: 12px 20px;
+    margin: 8px 0;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
 }
